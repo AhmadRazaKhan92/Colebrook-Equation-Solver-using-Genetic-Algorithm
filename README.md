@@ -81,5 +81,5 @@ The Newton-Raphson method is used as a benchmark numerical method. It iterativel
 ## File Structure
 
 ```text
-├── AIFA Project Code.py
+├── Project Code.py
 └── README.md
